@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;sintaxe-variaveis-fluxo&apos;" deleteContents="false" description="Delete resource &apos;sintaxe-variaveis-fluxo&apos;" element1="/sintaxe-variaveis-fluxo" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1683057884051"/>&#x0A;<refactoring comment="Delete resource &apos;sintaxe-variaveis-fluxos&apos;" deleteContents="false" description="Delete resource &apos;sintaxe-variaveis-fluxos&apos;" element1="/sintaxe-variaveis-fluxos" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1683057959849"/>
+</session>
